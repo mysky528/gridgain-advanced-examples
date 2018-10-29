@@ -27,7 +27,7 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
         <gridgain.version>7.7.3</gridgain.version>
-        <ignite.version>1.7.3</ignite.version>
+        <ignite.version>2.6.0</ignite.version>
         <mongodb.version>RELEASE</mongodb.version>
         <embedded.mongo.version>RELEASE</embedded.mongo.version>
         <morphia.version>RELEASE</morphia.version>
